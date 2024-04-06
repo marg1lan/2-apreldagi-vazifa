@@ -1,0 +1,85 @@
+.wrapper h1{
+  text-align: center;
+  margin-top: 20px;
+  cursor: pointer;
+  transition: all 0.5s;
+}
+.wrapper h1:hover{
+  color: rgb(4, 4, 192);
+}
+.img Image {
+  border-radius: 10px;
+  transition: all 0.5s;
+  cursor: pointer;
+}
+.image:hover{
+  transform: scale(1.1);
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.image{
+  transition: all 0.5s;
+  cursor: pointer;
+  border-radius: 6px;
+  margin-left: 50px;
+}
+.card{
+  margin-left: 100px;
+  margin-top: 60px;
+}
+.onetext{ 
+  font-size: 10px;
+  letter-spacing: 2px;
+  color: blue;
+  margin-top: 10px;
+}
+.twotext{
+  font-size: 12px;
+  margin-top: 10px;
+  letter-spacing: 1px;
+  font-weight: 800;
+}
+.sana{
+  font-size: 12px;
+  font-weight: 100;
+  letter-spacing: 1px;
+  margin-top: 10px;
+  color: rgb(116, 116, 116);
+}
+.cardwrapper{
+  display: flex;
+}
+
+.bottomcard{
+  margin-top: 100px;
+  margin-left: 180px;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.cardss{
+  display:flex;
+  align-items: center;
+  margin-bottom:80px;
+}
+.texts{
+  margin-left: 50px;
+}
+.design h2{
+    margin-top: 10px;
+  font-size: 17px;
+  color: blue;
+  letter-spacing: 2px;
+  font-weight: 600;
+}
+.descc{
+font-size: 13px;
+margin-top: 10px;
+margin-bottom: 10px;
+font-weight: 200;
+}
+.sanaa{
+  font-size: 12px;
+}
